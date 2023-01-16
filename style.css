@@ -46,27 +46,6 @@ body {
 
 
 
-/*.logo{
-	max-height: 40px;
-	animation: rotation 8s infinite linear;
-}
-
-@keyframes rotation {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(359deg);
-  }
-}
-
-.logo:hover{
-	box-shadow: 0 0 10px white;	
-}*/
-
-
-
-
 /*-------------------Landing Page---------------------*/
 #home {
 	display: flex;
